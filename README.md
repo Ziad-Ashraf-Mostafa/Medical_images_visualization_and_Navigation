@@ -9,6 +9,9 @@ It is designed to handle NIfTI (`.nii` / `.nii.gz`) datasets and visualize anato
 
 The goal is to create an efficient, user-friendly environment for exploring volumetric medical data, suitable for both educational and research purposes.
 
+This a student's project in Biomedical Engineering Department, Cairo University.
+It is not intended for clinical diagnostic use.
+
 ---
 
 ## Features
@@ -32,8 +35,7 @@ The goal is to create an efficient, user-friendly environment for exploring volu
 ---
 
 ## Folder Structure
-al Engineering Department, Cairo University.
-It is not intended for clinical diagnostic use.
+
 
 
 ---
